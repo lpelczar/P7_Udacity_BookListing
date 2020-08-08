@@ -11,4 +11,4 @@ Project 7: Book Listing App - Create an app to list the published books on a giv
 
 ## Screenshots
 
-![book](http://i64.tinypic.com/a1rdkl.png)
+<img src="https://raw.github.com/lpelczar/P7_Udacity_BookListing/master/screenshots/p7.png" width="600">
